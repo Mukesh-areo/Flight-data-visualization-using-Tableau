@@ -29,6 +29,12 @@ Jupyter Notebook, MS Excel, Tableau
 
 -From maped distance we can get to know the routes and distance of the flights
 
+-Created the dashboard based on this things Total number of service Flights 
+Number of Flights by day
+Most popular day
+Top five average distance 
+Top five Busiest routes
+Mapping distance
 
 # LinkedIn Post 📲
 
