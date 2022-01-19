@@ -33,6 +33,6 @@ Jupyter Notebook, MS Excel, Tableau
 'Mapping distance
 
 # LinkedIn Post 📲
-
+https://www.linkedin.com/posts/mukesh-b-7005a9178_dataanalysis-python-internship-activity-6889609156890767360-MLqR
 
 
