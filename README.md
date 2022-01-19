@@ -34,5 +34,5 @@ Jupyter Notebook, MS Excel, Tableau
 
 # LinkedIn Post 📲
 
-# Youtube Video 🎬
+
 
